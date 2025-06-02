@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+, "src/app/courses-categories.jsx", "src/app/explore-courses.jsx", "src/app/hero.jsx", "src/app/out-impressive-stats.jsx", "src/app/students-feedback.jsx", "src/components/footer.jsx", "src/components/navbar.jsx", "src/components/stats-card.jsx", "src/app/events.jsx", "src/app/testimonial.jsx", "src/app/page.jsx", "src/app/layout.tsx", "src/app/index.tsx", "src/app/trusted-companies.jsx", "src/components/category-card.jsx", "src/components/course-card.jsx", "src/components/event-card.jsx", "src/components/feedback-card.jsx", "src/components/fixed-plugin.jsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
