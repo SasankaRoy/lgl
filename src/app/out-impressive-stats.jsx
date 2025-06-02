@@ -39,7 +39,7 @@ export function OutImpressiveStats() {
     <section className="px-8 pt-64">
       <div className="container mx-auto text-center lg:text-left">
         <div className="grid place-items-center text-center">
-          <Typography variant="h2" color="blue-gray" className="mb-2 text-4xl">
+          <Typography variant="h2" color="blue" className="mb-2 text-4xl">
             Explore Our Transporing Solutions
           </Typography>
           <Typography

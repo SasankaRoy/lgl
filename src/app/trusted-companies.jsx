@@ -21,7 +21,7 @@ function TrustedCompany() {
           <Typography variant="h6" className="mb-4 uppercase !text-gray-500">
             AWESOME COMMUNITY
           </Typography>
-          <Typography variant="h2" color="blue-gray" className="mb-12">
+          <Typography variant="h2" color="blue" className="mb-12">
             Trusted by over 200+ Companies
           </Typography>
         </div>

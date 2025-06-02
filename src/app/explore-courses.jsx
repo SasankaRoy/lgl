@@ -52,7 +52,7 @@ export function ExploreCourses() {
   return (
     <section className="px-8">
       <div className="container mx-auto mb-24 text-center">
-        <Typography variant="h2" color="blue-gray">
+        <Typography variant="h2" color="blue">
           Drive with Us
         </Typography>
         <Typography

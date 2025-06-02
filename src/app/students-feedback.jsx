@@ -32,7 +32,7 @@ export function StudentsFeedback() {
     <section className="px-8 py-36">
       <div className="container mx-auto">
         <div className="mb-16 flex flex-col items-center w-full">
-          <Typography variant="h2" color="blue-gray" className="mb-2">
+          <Typography variant="h2" color="blue" className="mb-2">
             What Our Clients Are Saying
           </Typography>
           <Typography
